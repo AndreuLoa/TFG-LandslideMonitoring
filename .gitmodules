@@ -1,0 +1,6 @@
+[submodule "nest-test"]
+	path = nest-test
+	url = https://github.com/AndreuLoa/NestBackEnd
+[submodule "angular-test"]
+	path = angular-test
+	url = https://github.com/AndreuLoa/AngularFrontEnd
